@@ -1,0 +1,66 @@
+Lưu Ý Khi Dùng Chặn Thu Hồi
+- Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
+- Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
+(Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
+Muốn bật VPN thì xóa hết tất cả các app cài bên ngoài đi, dùng xong rồi thì tắt VPN để DNS tầm 5 phút rồi cài lại)
+
+
+Denylist:
+
+digicert.com
+
+digicert.cn
+
+entrust.net
+
+valid.apple.com
+
+certs.apple.com
+
+crl.apple.com
+
+ocsp2.apple.com
+
+ocsp.apple.com
+
+ocsp.usertrust.com
+
+sectigo.com
+
+letsencrypt.org
+
+gdmf.apple.com
+
+iadsdk.apple.com
+
+ocsp-lb.apple.com.akadns.net
+
+ocsp2-lb.apple.com.akadns.net
+
+certs-lb.apple.com.akadns.net
+
+crl-lb.apple.com.akadns.net
+
+valid.origin-apple.com.akadns.net
+
+vpp.itunes-apple.com.akadns.net
+
+mesu-cdn.apple.com.akadns.net
+
+crt.apple.com
+
+crt.v.aaplimg.com
+
+entrust.com
+
+ocsp2.g.aaplimg.com
+
+mesu.apple.com
+
+identrust.com
+
+Allowlist:
+
+ppq.apple.com
+
+ppq-ext.v.aaplimg.com
